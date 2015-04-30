@@ -1,9 +1,14 @@
 # Sorbet
 **Contributors:** automattic
+
 **Tags:** clean, design, teal, blue, gray, green, orange, pink, red, light, one-column, two-columns, right-sidebar, fixed-layout, responsive-layout, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, infinite-scroll, post-formats, rtl-language-support, sticky-post, translation-ready, blog, gaming, journal, lifestream, photoblogging, school, tumblelog, artistic, bright, colorful, modern, playful, vibrant
+
 **Tested up to:** 3.8
+
 **Stable tag:** 3.6
+
 **License:** GPLv2 or later
+
 **License URI:** http://www.gnu.org/licenses/gpl-2.0.html
 
 ## Description
