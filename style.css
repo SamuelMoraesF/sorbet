@@ -1014,8 +1014,8 @@ a:hover, a:focus, a:active {
   font-size: 0.83333em;
   line-height: 1.8em;
   margin: 27px auto 0;
-  padding: 27px;
-  text-align: center;
+  padding: 5px;
+  text-align: left;
   width: 100%;
 }
 .site-footer a {
