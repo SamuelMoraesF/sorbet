@@ -16,10 +16,7 @@
 	<?php endif; ?>
 	<footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="site-info">
-			<?php do_action( 'sorbet_credits' ); ?>
-			<a href="http://wordpress.org/" rel="generator"><?php printf( __( 'Proudly powered by %s', 'sorbet' ), 'WordPress' ); ?></a>
-			<span class="sep"> | </span>
-			<?php printf( __( 'Theme: %1$s by %2$s.', 'sorbet' ), 'Sorbet', '<a href="https://wordpress.com/themes/" rel="designer">WordPress.com</a>' ); ?>
+			&copy; <a href="http://escolathomasfortes.com.br">Escola Thomás Fortes</a>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
